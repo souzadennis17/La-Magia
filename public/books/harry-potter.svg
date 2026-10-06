@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Castelo mágico sob um céu estrelado</title>
+  <desc id="desc">Ilustração original de um castelo iluminado, estrelas e uma trilha dourada de magia.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#111a39"/><stop offset="1" stop-color="#543d68"/></linearGradient>
+    <linearGradient id="glow" x2="0" y2="1"><stop stop-color="#ffe69a"/><stop offset="1" stop-color="#e7a54f"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#fff3c3" stop-opacity=".75"/><stop offset="1" stop-color="#fff3c3" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h800v1000H0z"/>
+  <circle cx="602" cy="196" r="150" fill="url(#moon)"/>
+  <circle cx="602" cy="196" r="54" fill="#fff0bf"/>
+  <g fill="#fff0c4">
+    <path d="m146 160 7 18 18 7-18 7-7 18-7-18-18-7 18-7zM340 95l5 13 13 5-13 5-5 13-5-13-13-5 13-5zM710 345l6 15 15 6-15 6-6 15-6-15-15-6 15-6zM270 342l4 10 10 4-10 4-4 10-4-10-10-4 10-4z"/>
+    <circle cx="483" cy="120" r="3"/><circle cx="96" cy="300" r="3"/><circle cx="704" cy="112" r="3"/><circle cx="370" cy="238" r="2"/>
+  </g>
+  <path fill="#25233f" d="m0 708 104-96 68 43 91-155 94 116 75-85 98 125 93-151 177 150v345H0z"/>
+  <g fill="#171a31">
+    <path d="M145 490h70v299h-70zM128 474l52-74 52 74zM270 548h76v270h-76zM253 531l55-82 55 82zM506 515h86v295h-86zM486 496l63-90 63 90zM620 563h75v252h-75zM603 544l54-78 54 78z"/>
+    <path d="M190 600h420v245H190zM164 583l236-107 240 107z"/>
+  </g>
+  <g fill="url(#glow)">
+    <path d="M171 534h16v26h-16zM295 594h16v27h-16zM530 567h17v28h-17zM645 610h16v26h-16z"/>
+    <path d="M250 668h18v30h-18zM330 668h18v30h-18zM451 668h18v30h-18zM531 668h18v30h-18z"/>
+    <path d="M375 735q25-46 50 0v111h-50z"/>
+  </g>
+  <path fill="none" stroke="#f5c96f" stroke-linecap="round" stroke-width="5" d="M94 830c108-76 171-29 256-112s138-51 213-133"/>
+  <g fill="#ffe69a"><circle cx="95" cy="830" r="6"/><circle cx="226" cy="764" r="4"/><circle cx="350" cy="738" r="5"/><circle cx="452" cy="665" r="4"/><circle cx="563" cy="585" r="6"/></g>
+</svg>

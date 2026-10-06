@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Floresta nevada e um lampião</title>
+  <desc id="desc">Ilustração original de uma floresta coberta de neve, com um lampião aceso e montanhas distantes.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#344d6b"/><stop offset=".7" stop-color="#a7c4ce"/><stop offset="1" stop-color="#e5edf0"/></linearGradient>
+    <radialGradient id="lamp"><stop stop-color="#ffe4a0" stop-opacity=".8"/><stop offset="1" stop-color="#ffe4a0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h800v1000H0z"/>
+  <g fill="#e9f1ef" opacity=".9">
+    <circle cx="104" cy="125" r="2"/><circle cx="224" cy="205" r="3"/><circle cx="390" cy="98" r="2"/><circle cx="686" cy="166" r="3"/><circle cx="550" cy="280" r="2"/><circle cx="142" cy="340" r="3"/><circle cx="733" cy="390" r="2"/>
+  </g>
+  <path fill="#627d91" d="m0 555 156-187 90 99 172-249 158 229 82-92 142 156v257H0z"/>
+  <path fill="#dce8e8" d="m156 368 54 78-48-22-39 47zM418 218l86 131-74-37-43 35-55 12zM576 447l82-92 45 58-47-15z"/>
+  <path fill="#f1f4ee" d="M0 632q143-79 284-4 123-71 259 5t257-3v370H0z"/>
+  <g fill="#314958">
+    <path d="M65 685h28v210H65zM79 535l-69 178h137zM164 708h23v165h-23zM175 586l-56 143h112zM643 688h30v216h-30zM658 520l-75 190h150zM727 705h22v180h-22zM738 590l-57 145h114z"/>
+  </g>
+  <g fill="#eaf1ef">
+    <path d="m79 535 34 88-46-23-25 33zM175 586l30 74-43-17-24 27zM658 520l37 91-51-21-29 34zM738 590l27 70-43-18-24 29z"/>
+  </g>
+  <circle cx="411" cy="711" r="137" fill="url(#lamp)"/>
+  <path fill="#243440" d="M391 574h40v18h-40zM397 592h28v90h-28zM385 682h52v16h-52zM392 698h38v74h-38zM382 772h58v13h-58z"/>
+  <path fill="#f7d788" d="M402 609h18v57h-18z"/>
+  <path fill="none" stroke="#c6d6d9" stroke-width="3" d="M0 836q140-27 280 0t280 0 240 0M0 913q140-24 280 0t280 0 240 0"/>
+</svg>

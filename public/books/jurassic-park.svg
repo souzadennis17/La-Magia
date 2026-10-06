@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Dinossauro em uma floresta pré-histórica</title>
+  <desc id="desc">Ilustração original de um dinossauro entre samambaias e montanhas sob um céu dramático.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#283642"/><stop offset=".55" stop-color="#a15c3c"/><stop offset="1" stop-color="#e4a45d"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#58634a"/><stop offset="1" stop-color="#202d2b"/></linearGradient>
+    <radialGradient id="sun"><stop stop-color="#ffda91" stop-opacity=".85"/><stop offset="1" stop-color="#ffda91" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h800v1000H0z"/>
+  <circle cx="550" cy="425" r="190" fill="url(#sun)"/>
+  <circle cx="550" cy="425" r="65" fill="#f6c47e" opacity=".8"/>
+  <path fill="#49514b" d="m0 600 115-130 86 83 151-190 125 163 120-138 203 183v429H0z"/>
+  <path fill="url(#hill)" d="m0 699 170-82 143 61 164-126 138 102 185-68v414H0z"/>
+  <path fill="#1b2928" d="M254 713c27-19 44-56 47-98l-25-25 12-15 44 15 26-56 50 3 24 34 67-7 42 25-9 20-85 5-34 41-16 101 23 70-28 14-42-72-12-74-31 49-19 89-29 12-9-13 8-105-28 17-26 75-27 3-6-16 29-88z"/>
+  <path fill="#1a2926" d="M0 857q49-94 96 0 39-124 88 0 52-148 108 0v143H0zM511 882q47-123 91 0 46-147 94 0 42-97 104 0v118H511z"/>
+  <g fill="none" stroke="#9da36f" stroke-linecap="round" stroke-width="9">
+    <path d="M66 1000q23-82 78-123m-60 85q-39-59-68-65m153 103q18-97 82-140m-53 92q-43-57-79-62M673 1000q-6-92 45-143m-21 101q-48-45-87-41M766 1000q-4-77 31-116"/>
+  </g>
+  <g fill="#d48a4f" opacity=".85"><circle cx="145" cy="557" r="4"/><circle cx="655" cy="537" r="5"/><circle cx="693" cy="597" r="3"/><circle cx="98" cy="644" r="3"/></g>
+</svg>

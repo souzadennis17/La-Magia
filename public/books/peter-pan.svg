@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Ilha encantada sob a lua</title>
+  <desc id="desc">Ilustração original de uma ilha verde, mar azul e uma trilha de estrelas no céu noturno.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#14294a"/><stop offset="1" stop-color="#39799a"/></linearGradient>
+    <linearGradient id="sea" x2="0" y2="1"><stop stop-color="#368fa0"/><stop offset="1" stop-color="#153e60"/></linearGradient>
+    <radialGradient id="moon"><stop stop-color="#fff6c8" stop-opacity=".55"/><stop offset="1" stop-color="#fff6c8" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h800v650H0z"/>
+  <circle cx="610" cy="185" r="160" fill="url(#moon)"/>
+  <path fill="#fff2c5" d="M630 108a72 72 0 1 0 62 112 82 82 0 0 1-62-112"/>
+  <g fill="#fff1c7">
+    <path d="m160 140 7 17 17 7-17 7-7 17-7-17-17-7 17-7zM390 240l5 12 12 5-12 5-5 12-5-12-12-5 12-5zM704 336l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/>
+    <circle cx="250" cy="275" r="4"/><circle cx="486" cy="102" r="3"/><circle cx="92" cy="360" r="3"/><circle cx="348" cy="135" r="2"/>
+  </g>
+  <path fill="none" stroke="#ffe28a" stroke-dasharray="2 20" stroke-linecap="round" stroke-width="7" d="M82 390c160-156 210 100 344-37s202-136 300-46"/>
+  <path fill="url(#sea)" d="M0 600q130-34 260 0t260 0 280 0v400H0z"/>
+  <path fill="#72a875" d="M0 705q112-88 213-66 62-153 180-126 57-127 174-63 96-113 233-22v151q-160 68-310 42-182-35-317 88-87 52-173 26z"/>
+  <path fill="#477b62" d="M0 752q162-75 284-24 102-81 217-35 152-85 299-25v140H0z"/>
+  <path fill="#183d51" d="M0 847q109-29 218 0t218 0 218 0 146 0v153H0z"/>
+  <g fill="#ffe28a"><circle cx="135" cy="740" r="5"/><circle cx="234" cy="693" r="4"/><circle cx="440" cy="684" r="5"/><circle cx="618" cy="700" r="4"/><circle cx="710" cy="646" r="5"/></g>
+  <path fill="none" stroke="#f3d17c" stroke-width="3" d="M0 882q150-24 300 0t300 0 200 0M0 925q150-24 300 0t300 0 200 0"/>
+</svg>
